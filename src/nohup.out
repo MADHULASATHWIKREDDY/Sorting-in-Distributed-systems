@@ -1,0 +1,383 @@
+My server Id: 0
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8080
+My server Id: 3
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8083
+My server Id: 2
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8082
+My server Id: 1
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8081
+Number of lines in Server: 10
+Number of lines in Server: 10
+Toserver:Number of data localhost:8082 6
+Toserver:Number of data localhost:8081 7
+Toserver:Number of data localhost:8083 3
+Toserver:Number of data localhost:8081 3
+Toserver:Number of data localhost:8080 2
+Client comp 0
+Toserver:Number of data localhost:8083 3
+Client comp 0
+Number of Messages recieved: 3 1
+Client comp 0
+Number of Messages recieved: 3 2
+Toserver:Number of data localhost:8082 1
+Toserver:Number of data localhost:8080 3
+Complete readAndSendMessages----->
+Client comp 1
+Number of Messages recieved: 3 3
+Number of Messages recieved: 0 1
+Client comp 1
+Number of Messages recieved: 0 2
+Complete readAndSendMessages----->
+Number of lines in Server: 10
+Toserver:Number of data localhost:8083 3
+Toserver:Number of data localhost:8081 5
+Toserver:Number of data localhost:8082 4
+Client comp 0
+Number of Messages recieved: 2 1
+Client comp 0
+Number of Messages recieved: 2 2
+Client comp 0
+Number of Messages recieved: 2 3
+Client comp 1
+Number of Messages recieved: 2 4
+Toserver:Number of data localhost:8080 2
+Complete readAndSendMessages----->
+Client 127.0.0.1:55078 connected, spawning goroutine to handle connection
+Client 127.0.0.1:55079 connected, spawning goroutine to handle connection
+Complete sendData----->
+Complete sendData----->
+Client comp 1
+Number of Messages recieved: 3 4
+Client comp 1
+Client 127.0.0.1:55076 connected, spawning goroutine to handle connection
+Number of Messages recieved: 3 5
+Complete handleClientConnection----->
+Complete sendData----->
+Client comp 2
+Client 127.0.0.1:55077 connected, spawning goroutine to handle connection
+Number of Messages recieved: 3 6
+Client comp 2
+Complete sendData----->
+Number of Messages recieved: 3 7
+Client comp 2
+Complete sendData----->
+Number of Messages recieved: 3 8
+Client comp 1
+Complete handleClientConnection----->
+Number of Messages recieved: 0 3
+Client comp 3
+Number of Messages recieved: 3 9
+Complete sendData----->
+Client comp 2
+Complete sendData----->
+Number of Messages recieved: 0 4
+Complete handleClientConnection----->
+Client 127.0.0.1:55073 connected, spawning goroutine to handle connection
+Complete sendData----->
+Client 127.0.0.1:55080 connected, spawning goroutine to handle connection
+Client comp 1
+Number of Messages recieved: 2 5
+Complete sendData----->
+Client comp 2
+Number of Messages recieved: 0 5
+Client comp 1
+Client comp 2
+Number of Messages recieved: 2 6
+Number of Messages recieved: 0 6
+Client comp 1
+Complete handleClientConnection----->
+Number of Messages recieved: 2 7
+Client comp 1
+Number of Messages recieved: 2 8
+Client comp 1
+Number of Messages recieved: 2 9
+Client comp 2
+Number of Messages recieved: 2 10
+Client 127.0.0.1:55074 connected, spawning goroutine to handle connection
+Complete handleClientConnection----->
+Client 127.0.0.1:55075 connected, spawning goroutine to handle connection
+Complete handleClientConnection----->
+Client 127.0.0.1:55081 connected, spawning goroutine to handle connection
+Client comp 3
+Number of Messages recieved: 2 11
+Complete listenForClientConnections----->
+Client comp 3
+Number of Messages recieved: 0 7
+Client comp 0
+Number of Messages recieved: 1 1
+Client comp 0
+Number of Messages recieved: 1 2
+Number of lines in Server: 10
+Toserver:Number of data localhost:8081 6
+Client comp 0
+Number of Messages recieved: 1 3
+Client comp 0
+Number of Messages recieved: 1 4
+Client comp 0
+Number of Messages recieved: 1 5
+Client comp 0
+Number of Messages recieved: 1 6
+Client comp 0
+Number of Messages recieved: 1 7
+Client comp 0
+Number of Messages recieved: 1 8
+Client comp 0
+Number of Messages recieved: 1 9
+Client comp 0
+Number of Messages recieved: 1 10
+Client comp 1
+Number of Messages recieved: 1 11
+Client comp 1
+Number of Messages recieved: 1 12
+Client comp 2
+Number of Messages recieved: 1 13
+Client comp 2
+Number of Messages recieved: 1 14
+Client comp 2
+Number of Messages recieved: 1 15
+Client comp 2
+Number of Messages recieved: 1 16
+Client comp 2
+Number of Messages recieved: 1 17
+Complete handleClientConnection----->
+Client comp 3
+Toserver:Number of data localhost:8082 3
+Toserver:Number of data localhost:8080 3
+Toserver:Number of data localhost:8083 2
+Complete readAndSendMessages----->
+Number of Messages recieved: 1 18
+Client comp 3
+Number of Messages recieved: 1 19
+Complete handleClientConnection----->
+Client comp 3
+Number of Messages recieved: 1 20
+Client comp 4
+Number of Messages recieved: 1 21
+Complete receiveDataFromClients----->
+Complete handleClientConnection----->
+Complete sendData----->
+Complete sendData----->
+Client 127.0.0.1:55082 connected, spawning goroutine to handle connection
+Complete sendData----->
+Complete listenForClientConnections----->
+Client comp 3
+Number of Messages recieved: 0 8
+Client comp 3
+Number of Messages recieved: 0 9
+Complete handleClientConnection----->
+Client comp 4
+Number of Messages recieved: 0 10
+Complete receiveDataFromClients----->
+Client 127.0.0.1:55083 connected, spawning goroutine to handle connection
+Client 127.0.0.1:55084 connected, spawning goroutine to handle connection
+Complete listenForClientConnections----->
+Complete listenForClientConnections----->
+Client comp 3
+Number of Messages recieved: 2 12
+Client comp 3
+Client comp 3
+Number of Messages recieved: 3 10
+Number of Messages recieved: 2 13
+Client comp 4
+Number of Messages recieved: 3 11
+Complete handleClientConnection----->
+Complete receiveDataFromClients----->
+Client comp 4
+Number of Messages recieved: 2 14
+Complete receiveDataFromClients----->
+Complete handleClientConnection----->
+My server Id: 2
+My server Id: 0
+My server Id: 3
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8082
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8080
+Starting tcp server on localhost:8083
+My server Id: 1
+Got the following server configs: {[{0 localhost 8080} {1 localhost 8081} {2 localhost 8082} {3 localhost 8083}]}
+Starting tcp server on localhost:8081
+Number of lines in Server: 10
+Toserver:Number of data localhost:8082 6
+Toserver:Number of data localhost:8083 3
+Toserver:Number of data localhost:8081 3
+Toserver:Number of data localhost:8080 2
+Number of lines in Server: 10
+Client comp 0
+Number of lines in Server: 10
+Number of Messages recieved: 0 1
+Toserver:Number of data localhost:8081 5
+Client comp 1
+Toserver:Number of data localhost:8080 3
+Number of Messages recieved: 0 2
+Toserver:Number of data localhost:8082 4
+Complete readAndSendMessages----->
+Client comp 0
+Number of Messages recieved: 2 1
+Toserver:Number of data localhost:8081 7
+Client comp 0
+Toserver:Number of data localhost:8083 3
+Number of Messages recieved: 2 2
+Client comp 0
+Client comp 0
+Number of Messages recieved: 3 1
+Number of Messages recieved: 2 3
+Client comp 0
+Client comp 1
+Number of Messages recieved: 3 2
+Toserver:Number of data localhost:8082 1
+Number of Messages recieved: 2 4
+Complete readAndSendMessages----->
+Toserver:Number of data localhost:8080 2
+Toserver:Number of data localhost:8083 3
+Complete readAndSendMessages----->
+Number of lines in Server: 10
+Toserver:Number of data localhost:8083 2
+Toserver:Number of data localhost:8081 6
+Client comp 0
+Number of Messages recieved: 1 1
+Client comp 0
+Number of Messages recieved: 1 2
+Client comp 0
+Number of Messages recieved: 1 3
+Client comp 0
+Number of Messages recieved: 1 4
+Client comp 0
+Client comp 1
+Number of Messages recieved: 1 5
+Number of Messages recieved: 3 3
+Client comp 1
+Number of Messages recieved: 1 6
+Toserver:Number of data localhost:8082 3
+Toserver:Number of data localhost:8080 3
+Complete readAndSendMessages----->
+Client 127.0.0.1:55100 connected, spawning goroutine to handle connection
+Complete sendData----->
+Client 127.0.0.1:55097 connected, spawning goroutine to handle connection
+Client comp 1
+Number of Messages recieved: 3 4
+Client comp 1
+Number of Messages recieved: 3 5
+Client 127.0.0.1:55098 connected, spawning goroutine to handle connection
+Complete handleClientConnection----->
+Complete sendData----->
+Client comp 2
+Number of Messages recieved: 3 6
+Complete sendData----->
+Complete sendData----->
+Client 127.0.0.1:55095 connected, spawning goroutine to handle connection
+Complete sendData----->
+Client 127.0.0.1:55096 connected, spawning goroutine to handle connection
+Client 127.0.0.1:55099 connected, spawning goroutine to handle connection
+Client comp 1
+Number of Messages recieved: 1 7
+Complete sendData----->
+Client comp 1
+Number of Messages recieved: 1 8
+Client comp 1
+Number of Messages recieved: 1 9
+Client comp 1
+Number of Messages recieved: 1 10
+Client comp 1
+Number of Messages recieved: 1 11
+Client comp 1
+Number of Messages recieved: 1 12
+Complete handleClientConnection----->
+Client comp 2
+Number of Messages recieved: 1 13
+Client comp 2
+Number of Messages recieved: 1 14
+Client comp 2
+Number of Messages recieved: 1 15
+Complete handleClientConnection----->
+Complete handleClientConnection----->
+Client comp 3
+Number of Messages recieved: 1 16
+Client comp 1
+Client comp 2
+Number of Messages recieved: 2 5
+Number of Messages recieved: 0 3
+Client comp 1
+Client comp 2
+Number of Messages recieved: 0 4
+Number of Messages recieved: 2 6
+Complete handleClientConnection----->
+Client comp 2
+Number of Messages recieved: 2 7
+Client comp 2
+Client comp 2
+Number of Messages recieved: 0 5
+Number of Messages recieved: 2 8
+Client comp 2
+Number of Messages recieved: 2 9
+Client comp 2
+Number of Messages recieved: 2 10
+Client comp 3
+Number of Messages recieved: 2 11
+Complete handleClientConnection----->
+Client 127.0.0.1:55101 connected, spawning goroutine to handle connection
+Complete sendData----->
+Complete sendData----->
+Complete sendData----->
+Client 127.0.0.1:55104 connected, spawning goroutine to handle connection
+Complete listenForClientConnections----->
+Complete sendData----->
+Client 127.0.0.1:55103 connected, spawning goroutine to handle connection
+Client 127.0.0.1:55102 connected, spawning goroutine to handle connection
+Complete listenForClientConnections----->
+Client comp 3
+Client 127.0.0.1:55106 connected, spawning goroutine to handle connection
+Number of Messages recieved: 1 17
+Complete listenForClientConnections----->
+Client comp 3
+Number of Messages recieved: 1 18
+Client comp 3
+Number of Messages recieved: 1 19
+Client comp 3
+Number of Messages recieved: 1 20
+Client comp 2
+Complete handleClientConnection----->
+Number of Messages recieved: 3 7
+Client comp 3
+Client comp 4
+Number of Messages recieved: 1 21
+Complete receiveDataFromClients----->
+Number of Messages recieved: 3 8
+Complete handleClientConnection----->
+Client comp 3
+Number of Messages recieved: 3 9
+Client comp 3
+Number of Messages recieved: 3 10
+Complete sendData----->
+Complete handleClientConnection----->
+Client comp 4
+Number of Messages recieved: 3 11
+Complete receiveDataFromClients----->
+Complete sendData----->
+Client 127.0.0.1:55105 connected, spawning goroutine to handle connection
+Complete listenForClientConnections----->
+Client comp 2
+Number of Messages recieved: 0 6
+Client comp 2
+Number of Messages recieved: 0 7
+Complete handleClientConnection----->
+Client comp 3
+Number of Messages recieved: 0 8
+Client comp 3
+Number of Messages recieved: 0 9
+Client comp 3
+Client comp 4
+Number of Messages recieved: 2 12
+Number of Messages recieved: 0 10
+Client comp 3
+Complete receiveDataFromClients----->
+Number of Messages recieved: 2 13
+Complete handleClientConnection----->
+Client comp 4
+Number of Messages recieved: 2 14
+Complete receiveDataFromClients----->
